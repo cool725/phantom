@@ -9,6 +9,7 @@ const PurpleButton = styled(Button)({
   marginBottom: 10,
   width: "100%",
   background: "#4E44CE",
+  textTransform: "none",
   padding: "10px 0",
   fontSize: "16px",
   color: theme.color.white,
