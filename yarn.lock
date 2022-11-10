@@ -1242,6 +1242,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@here/maps-api-for-javascript@^1.30.16":
+  version "1.30.16"
+  resolved "https://repo.platform.here.com/artifactory/api/npm/maps-api-for-javascript/-/@here/maps-api-for-javascript-1.30.16.tgz#39fc6fa6ef82b2cb1b8151a6674aaa55985c1de0"
+  integrity sha1-Ofxvpu+CsssbgVGmZ0qqVZhcHeA=
+
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.9.5.tgz#2cbaf9a89460da24b5ca6531b8bbfc23e1df50c7"
@@ -1966,6 +1971,11 @@
   integrity sha512-anKkLmZZ+xm4p8JWBf4hElkM4XR+EZeA2M9BAkkTldmcyDY4mbdIJnRghDJH3Ov5ooY7/UAoENtmdMSkaAd7Cw==
   dependencies:
     "@types/node" "*"
+
+"@types/heremaps@^3.1.5":
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/@types/heremaps/-/heremaps-3.1.5.tgz#fa0eca4a923d00b0092517e7c1745649fb8b50e3"
+  integrity sha512-I9hLvguxz4+waIoJajJFravPNOk1tiRf4LylBLk7hnQXjX/qVJn5ZTBLskAGjB047VyTKPE7Eb/yO43Ssjok/g==
 
 "@types/html-minifier-terser@^6.0.0":
   version "6.1.0"
@@ -7501,6 +7511,11 @@ react-dom@^18.0.0:
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.21.0"
+
+react-error-overlay@6.0.9:
+  version "6.0.9"
+  resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
+  integrity sha512-nQTTcUu+ATDbrSD1BZHr5kgSD4oF8OFjxun8uAaL8RwPBacGBNPf/yAuVVdx17N8XNzRDMrZ9XcKZHCjPW+9ew==
 
 react-error-overlay@^6.0.10:
   version "6.0.10"
